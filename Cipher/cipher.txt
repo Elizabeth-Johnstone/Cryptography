@@ -1,0 +1,5 @@
+Open up a text editor and create your very own cipher. State all the logic behind your cipher. Then, using your cipher, encipher the phrase “I love cryptography!” Display the result. Using your cipher again, decipher the ciphered phrase. Do you get “I love cryptography!”?
+
+My cipher will simply move each character 5 letters down the alphabet. If the character is v, w, x, y, or z, the character wil not change. I'm using a simple cipher because this is a new concept to me.
+
+I love cryptography! = N qtvj hwyuytlwfumy
